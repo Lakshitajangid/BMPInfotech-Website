@@ -1,0 +1,49 @@
+
+const gallery = [
+    {
+        id:1,
+        title:'App',
+        image:'portfolio/game-development-3d-game-design-bmp-infotech.png'
+    },
+    {
+        id:2,
+        title:'App',
+        image:'portfolio/global-coding-standards-2.jpg'
+    },
+    {
+        id:3,
+        title:'App',
+        image:'portfolio/d-hacking-code-data-flow-stream-green-screen-typing-coding-symbols-computer-encrypted-fast-network-security-programming-150730032.jpg'
+    },
+    {
+        id:4,
+        title:'Card',
+        image:'portfolio/bmp infotech.jpg'
+    },
+    {
+        id:5,
+        title:'Card',
+        image:'portfolio//1239321.jpg'
+    },
+    {
+        id:6,
+        title:'Card',
+        image:'portfolio/download.jpg'
+    },
+    {
+        id:7,
+        title:'Web',
+        image:'portfolio/istockphoto-905840794-612x612.jpg'
+    },
+    {
+        id:8,
+        title:'Web',
+        image:'portfolio/istockphoto-1365534802-170667a.jpg'
+    },
+    {
+        id:9,
+        title:'Web',
+        image:'portfolio/images123.jpg'
+    },
+]
+export default gallery;
